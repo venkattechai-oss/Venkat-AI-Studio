@@ -1,0 +1,60 @@
+{
+    "male": {
+        "asian": [
+            {
+                "id": "m_as_seo_jun",
+                "name": "seo-jun",
+                "images": [
+                    "/assests/Avatars/seo-jun.png"
+                ]
+            }
+        ],
+        "european": [
+            {
+                "id": "m_eu_henry",
+                "name": "henry",
+                "images": [
+                    "/assests/Avatars/henry.png"
+                ]
+            }
+        ],
+        "african": [
+            {
+                "id": "m_af_kwane",
+                "name": "kwane",
+                "images": [
+                    "/assests/Avatars/kwame.png"
+                ]
+            }
+        ]
+    },
+    "female": {
+        "asian": [
+            {
+                "id": "f_as_himari",
+                "name": "himari",
+                "images": [
+                    "/assests/Avatars/himari.png"
+                ]
+            }
+        ],
+        "european": [
+            {
+                "id": "f_eu_lora",
+                "name": "lora",
+                "images": [
+                    "/assests/Avatars/Lora.png"
+                ]
+            }
+        ],
+        "african": [
+            {
+                "id": "f_af_zola",
+                "name": "zola",
+                "images": [
+                    "/assests/Avatars/zola.png"
+                ]
+            }
+        ]
+    }
+}

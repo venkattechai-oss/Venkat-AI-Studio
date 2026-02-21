@@ -1,0 +1,72 @@
+{
+    "predefinedAvatars": [
+        {
+            "id": "himari",
+            "originKey": "asian",
+            "skinToneKey": "medium",
+            "imageUrl": "/assests/Avatars/himari.png"
+        },
+        {
+            "id": "seo-jun",
+            "originKey": "asian",
+            "skinToneKey": "light",
+            "imageUrl": "/assests/Avatars/seo-jun.png"
+        },
+        {
+            "id": "henry",
+            "originKey": "european",
+            "skinToneKey": "pale",
+            "imageUrl": "/assests/Avatars/henry.png"
+        },
+        {
+            "id": "lora",
+            "originKey": "european",
+            "skinToneKey": "light",
+            "imageUrl": "/assests/Avatars/Lora.png"
+        },
+        {
+            "id": "zola",
+            "originKey": "african",
+            "skinToneKey": "dark",
+            "imageUrl": "/assests/Avatars/zola.png"
+        },
+        {
+            "id": "kwane",
+            "originKey": "african",
+            "skinToneKey": "dark",
+            "imageUrl": "/assests/Avatars/kwame.png"
+        }
+    ],
+    "options": {
+        "genders": [
+            "male",
+            "female"
+        ],
+        "continents": [
+            "european",
+            "african",
+            "asian"
+        ],
+        "skinTones": [
+            "very_pale",
+            "pale",
+            "light",
+            "medium",
+            "tan",
+            "dark",
+            "very_dark"
+        ],
+        "hairStyles": [
+            "straight",
+            "wavy",
+            "curly",
+            "coily"
+        ],
+        "features": [
+            "beard",
+            "glasses",
+            "freckles",
+            "natural"
+        ]
+    }
+}
